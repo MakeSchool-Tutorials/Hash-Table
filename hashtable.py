@@ -22,7 +22,7 @@ class HashTable(object):
         # TODO: Count number of key-value entries in each of the buckets
         pass
 
-    def contains(self):
+    def contains(self, key):
         """Return True if this hash table contains the given key, or False"""
         # TODO: Check if the given key exists in a bucket
         pass
